@@ -2,7 +2,7 @@
 
 By Abdurrahman Elkhadrawy
 
-Video overview: (https://www.youtube.com/watch?v=_VQtaVl0KJI)
+Video overview: https://www.youtube.com/watch?v=_VQtaVl0KJI
 
 ## Scope
 
